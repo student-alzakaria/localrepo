@@ -1,0 +1,10 @@
+[1mdiff --git a/LocalRepo/index.html b/LocalRepo/index.html[m
+[1mindex c01abbb..c7ae8b3 100644[m
+[1m--- a/LocalRepo/index.html[m
+[1m+++ b/LocalRepo/index.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-<p>This Is a New Repo</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>This Is a New Repo</p>[m
+[32m+[m[32m<p>This is a new feature</p>[m
+\ No newline at end of file[m
